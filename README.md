@@ -28,3 +28,4 @@ Sample react app with all cool packages and libraries available in 2023 around r
 - d3
 - sentry
 - react-ga
+- webpack
