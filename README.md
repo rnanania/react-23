@@ -26,7 +26,7 @@ Sample react app with all cool packages and libraries available in 2023 around r
 - [ ] i18next
 - [ ] msw
 - [ ] axios
-- [x] framer motion
+- [ ] framer motion
 - [ ] clsx
 - [ ] lodash
 - [ ] moment
