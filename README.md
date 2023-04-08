@@ -12,13 +12,6 @@ Sample react app with all cool packages and libraries available in 2023 around r
 - [x] tailwind
 - [x] sass support with scss
 - [ ] mui
-- [ ] jest
-- [ ] rtl
-- [ ] storybook
-- [ ] cypress
-- [x] eslint
-- [x] prettier
-- [ ] husky
 - [ ] redux
 - [ ] redux toolkit
 - [ ] react hook form
@@ -33,6 +26,14 @@ Sample react app with all cool packages and libraries available in 2023 around r
 - [ ] d3
 - [ ] sentry
 - [ ] react-ga
+- [ ] jest
+- [ ] rtl
+- [ ] storybook
+- [ ] cypress
+- [x] eslint
+- [x] prettier
+- [x] husky
+- [x] lint-staged
 
 ## Getting Started
 
