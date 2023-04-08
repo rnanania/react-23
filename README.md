@@ -1,21 +1,24 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## react-23
+
 Sample react app with all cool packages and libraries available in 2023 around react. There might be more cool stuff than listed here. Please reach out and I will try to incorporate that too.
 
 ## Packages and Libraries
-- [x] next 
+
+- [x] next
 - [x] react 18
 - [x] typescript
 - [x] tailwind
-- [x] css modules with scss
+- [x] sass support with scss
 - [ ] mui
 - [ ] jest
 - [ ] rtl
 - [ ] storybook
 - [ ] cypress
 - [x] eslint
-- [ ] prettier
+- [x] prettier
+- [ ] husky
 - [ ] redux
 - [ ] redux toolkit
 - [ ] react hook form
@@ -23,7 +26,7 @@ Sample react app with all cool packages and libraries available in 2023 around r
 - [ ] i18next
 - [ ] msw
 - [ ] axios
-- [ ] framer motion
+- [x] framer motion
 - [ ] clsx
 - [ ] lodash
 - [ ] moment
