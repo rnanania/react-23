@@ -6,8 +6,7 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint",
-    "prepare": "node_modules/.bin/husky-run install"
+    "lint": "next lint"
   },
   "dependencies": {
     "@types/node": "18.15.11",
@@ -28,6 +27,7 @@
     "@typescript-eslint/eslint-plugin": "^5.57.1",
     "eslint-config-prettier": "^8.8.0",
     "husky": "^8.0.3",
+    "lint-staged": "^13.2.1",
     "prettier": "^2.8.7",
     "sass": "^1.61.0"
   }
