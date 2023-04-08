@@ -4,34 +4,32 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 Sample react app with all cool packages and libraries available in 2023 around react. There might be more cool stuff than listed here. Please reach out and I will try to incorporate that too.
 
 ## Packages and Libraries
-- next
-- react 18
-- typescript
-- tailwind
-- css modules with scss
-- react router
-- mui
-- jest
-- rtl
-- storybook
-- cypress
-- eslint
-- prettier
-- redux
-- redux toolkit
-- react hook form
-- react use
-- i18next
-- msw
-- axios
-- framer motion
-- clsx
-- lodash
-- moment
-- d3
-- sentry
-- react-ga
-- webpack
+- [x] next 
+- [x] react 18
+- [x] typescript
+- [x] tailwind
+- [x] css modules with scss
+- [ ] mui
+- [ ] jest
+- [ ] rtl
+- [ ] storybook
+- [ ] cypress
+- [x] eslint
+- [ ] prettier
+- [ ] redux
+- [ ] redux toolkit
+- [ ] react hook form
+- [ ] react use
+- [ ] i18next
+- [ ] msw
+- [ ] axios
+- [ ] framer motion
+- [ ] clsx
+- [ ] lodash
+- [ ] moment
+- [ ] d3
+- [ ] sentry
+- [ ] react-ga
 
 ## Getting Started
 
