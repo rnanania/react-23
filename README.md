@@ -11,7 +11,7 @@ Sample react app with all cool packages and libraries available in 2023 around r
 - [x] typescript
 - [x] tailwind
 - [x] sass support with scss
-- [ ] mui
+- [x] mui with Emotion, Roboto font & Icons
 - [ ] redux
 - [ ] redux toolkit
 - [ ] react hook form
